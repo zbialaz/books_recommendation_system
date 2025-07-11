@@ -237,5 +237,3 @@ If you have any questions or suggestions, feel free to reach out:
 - **Email**: eduardobialas74@gmail.com
 
 ---
-
-⭐ **If you found this project helpful, please give it a star!** ⭐
