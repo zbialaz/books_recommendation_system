@@ -223,10 +223,6 @@ mlxtend          # Apriori algorithm
 - **Coverage**: 270K+ books in database
 - **Scalability**: Handles large datasets efficiently
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - [Kaggle](https://www.kaggle.com/) for the book recommendation dataset
