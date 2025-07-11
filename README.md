@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 [![Jupyter](https://img.shields.io/badge/jupyter-notebook-orange.svg)](https://jupyter.org/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 An intelligent book recommendation system built with Python using the **Apriori algorithm** and **association rules** to suggest books based on user preferences and reading patterns.
 
