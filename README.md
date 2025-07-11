@@ -107,7 +107,7 @@ books_recommendation_system/
 │   ├── Books.csv
 │   ├── Ratings.csv
 │   └── Users.csv
-├── requirements.txt                         # Python dependencies
+├── requirements.txt                        # Python dependencies
 ├── README.md                               # This file
 └── venv/                                   # Virtual environment
 ```
