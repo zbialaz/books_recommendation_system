@@ -227,7 +227,6 @@ mlxtend          # Apriori algorithm
 
 - [Kaggle](https://www.kaggle.com/) for the book recommendation dataset
 - [Apyori](https://github.com/ymoch/apyori) for the Apriori algorithm implementation
-- The open-source community for the amazing tools and libraries
 
 ## 📧 Contact
 
